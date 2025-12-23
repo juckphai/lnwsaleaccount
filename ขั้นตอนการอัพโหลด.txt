@@ -8,7 +8,7 @@ firebase deploy --project coke-and-cake-account
 C:\Users\manph\Desktop\2222>firebase login
 Already logged in as lnwuunws@gmail.com
 firebase deploy --project coke-and-cake-account
-firebase deploy --project account-ad664
+firebase deploy --project pos-system-b5e73
 firebase deploy --project account-juck
 firebase deploy --project ac-juck
 firebase deploy --project kunggi-phu
@@ -24,3 +24,5 @@ cd C:\Users\manph\Desktop\3333  ++ บัญชีแยก
 cd C:\Users\manph\Desktop\5555  ++  แยกกิจกรรม
 cd C:\Users\manph\Desktop\4444  +++ รวมกิจกรรม
 firebase deploy --project co-manphai-ac
+firebase deploy --project lnwsaleaccount
+firebase deploy --project salejuck
